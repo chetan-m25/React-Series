@@ -27,6 +27,9 @@ Vite is a **modern frontend build tool** that provides:
 
 This makes it perfect for **learning React as a beginner**.
 
+## This two files in the root folder are :
+* **README_1.md**  =  Step by step guide to create a React project using Vite
+* **README_2.md**  =  JavaScript basics required before starting React
 
 ## 📂 Project Folder Structure
 
