@@ -1,5 +1,6 @@
 # ⚛️ React Learning Series – Day 01
 
+
 * Welcome to **Day 01** of my **React Learning Series**   
 * This repository documents my **first step into React**, where I learned how to **set up a React project using Vite**, understand the **basic React folder structure**, and revise the **JavaScript fundamentals required before React**.
 * This series is focused on **learning by doing**, keeping everything **simple, practical, and beginner-friendly**.
