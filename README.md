@@ -3,6 +3,7 @@
 **React Series** is a day by day React learning repository focused on building a strong foundation in modern frontend development.  
 Each folder represents a specific day of learning, covering React concepts through hands on practice and small UI implementations.
 
+
 ## About This Repository
 
 * This series follows a **learning by building** approach.  
