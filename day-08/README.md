@@ -33,42 +33,42 @@ The goal was to understand **data fetching flow in React**, not just UI design.
 
 ## 🧠 Key Learnings from Day 08
 
-###  useEffect for Side Effects
+### 1. useEffect for Side Effects
 - API calls are handled inside `useEffect`
 - Data is fetched only once when the component mounts
 - Helped me understand **when and why useEffect runs**
 
 ---
 
-###  Axios for API Requests
+### 2. Axios for API Requests
 - Axios is used to fetch the main Pokemon list
 - Cleaner syntax and better readability than plain fetch
 - Makes handling API responses easier
 
 ---
 
-### Fetching Detailed Data
+### 3. Fetching Detailed Data
 - Initial API provides basic Pokemon info
 - Individual Pokemon details are fetched using their URLs
 - `Promise.all()` is used to resolve multiple async requests together
 
 ---
 
-### Loading & Error States
+### 4. Loading & Error States
 - A loading screen is shown while data is being fetched
 - Errors are handled gracefully and displayed to the user
 - Improves reliability and user experience
 
 ---
 
-### Search Functionality
+### 5. Search Functionality
 - Real time filtering based on Pokémon name
 - Case insensitive search
 - Implemented using array `.filter()` on fetched data
 
 ---
 
-### Component Separation
+### 6. Component Separation
 - `Pokemon.jsx` handles logic, API calls, and state
 - `PokeCard.jsx` focuses only on UI presentation
 - This separation made the code easier to read and maintain
