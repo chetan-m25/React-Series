@@ -20,6 +20,8 @@ A simple structured **Pokemon listing application** with:
 The goal was to understand **data fetching flow in React**, not just UI design.
 
 ---
+### 🌐 **Live Link** :  https://pokestudio.vercel.app/
+---
 
 ## 🖼️ UI Preview
 
