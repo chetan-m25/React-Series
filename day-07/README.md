@@ -7,7 +7,7 @@ This session helped me connect multiple concepts and see how React behaves in a 
 
 ---
 
-## What I Built 
+## 📈 What I Built :
 
 A **User Profile Manager UI** where:
 
