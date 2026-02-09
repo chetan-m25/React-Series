@@ -4,7 +4,7 @@
 * On this day, I focused on understanding **React components**, **project structure**, and building a **small UI using reusable components**.
 * Built a **small React UI** with a **navigation bar and a centered hero section**.
 
-## What I Learned on Day 02
+## 📘 What I Learned :
 
 - How to create **multiple React components**
 - How to organize components using a `components` folder
@@ -13,8 +13,14 @@
 - Importing and using components inside `App.jsx`
 - Applying **CSS styling** to React components
 
+-----------------------
+## 🖼️ UI Preview
 
-## 📂 Project Folder Structure (With Simple Explanation)
+<img src="./public/demo.png" width="800" alt="Profile Card UI" />
+
+-----------------------
+
+## 📂 Folder Structure (day-02) :
 ```
 day-02/
 ├── node_modules/ 
