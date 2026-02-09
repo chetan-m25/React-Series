@@ -5,7 +5,7 @@ On this day, I focused on learning **Tailwind CSS** and how to use it inside a *
 
 ---------------------------------------------------
 
-## 📘 What I Learned on Day 03
+## 📘 What I Learned :
 
 - What **Tailwind CSS** is and why it is useful
 - How to **install Tailwind CSS in a React project**
@@ -16,7 +16,14 @@ On this day, I focused on learning **Tailwind CSS** and how to use it inside a *
 - Understanding how Tailwind replaces traditional CSS files
 - I also created a **small card UI** using Tailwind utility classes
 
-## 🧩 What is Tailwind CSS?
+-----------------------
+## 🖼️ UI Preview
+
+<img src="./public/demo.png" width="800" alt="Profile Card UI" />
+
+-----------------------
+
+## What is Tailwind CSS?
 
 Tailwind CSS is a **utility first CSS framework**.  
 Instead of writing custom CSS files, you style elements directly using **predefined class names**.
@@ -129,7 +136,7 @@ Tailwind allows custom values using square brackets.
 
 ---------------------------------------------------
 
-## 📂 Folder Structure (day-03):
+## 📂 Folder Structure (day-03) :
 ```
 day-03/
 │
