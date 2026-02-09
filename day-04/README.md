@@ -6,7 +6,7 @@
 
 ---
 
-## What I Learned :
+## 📘 What I Learned :
 
 - What **props** are in React
 - What **props drilling** means
