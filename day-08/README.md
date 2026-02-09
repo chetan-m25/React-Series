@@ -7,7 +7,7 @@ To practice this, I built a **Pokemon Explorer UI** that fetches and displays da
 
 ---
 
-## What I Built
+## 📈 What I Built :
 
 A simple structured **Pokemon listing application** with:
 
