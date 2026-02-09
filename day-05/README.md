@@ -6,7 +6,7 @@
 
 ---
 
-## What I Learned :
+## 📘 What I Learned :
 
 On this day, I learned how to **integrate multiple React concepts at the same time**, including:
 
