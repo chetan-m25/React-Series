@@ -5,7 +5,7 @@
 
 ---
 
-# 📘 What I Learned Today
+# 📘 What I Learned :
 
 - Handling form submissions in React
 - Managing input values using useState
