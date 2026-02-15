@@ -76,7 +76,7 @@ This helped me understand how **real websites handle navigation in React**.
 ---
 
 ## 📂 Folder Structure (day-09) :
-```
+```bash
 day-09/
 ├── node_modules/ 
 ├── public/
